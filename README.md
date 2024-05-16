@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
