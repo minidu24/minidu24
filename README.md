@@ -14,8 +14,9 @@
 </h2>
 
 
-- 🌱 I’m currently learning **BSC.Software Enginnering**
+
 - 🔭 I’m currently working on **Sri Lanka Institute of Information Technology**
+ - 🌱 I’m currently learning **BSC.Software Enginnering**
 
 
 - 📫 How to reach me **miniduherath24@gmail.com**
