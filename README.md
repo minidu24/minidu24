@@ -38,11 +38,15 @@
 
 | ![Minidu's github stats](https://github-readme-stats.vercel.app/api?username=minidu24&show_icons=true&theme=tokyonight) | ![Minidu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minidu24&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minidu24&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=minidu24&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minidu24&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=minidu24&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minidu24&" alt="minidu24" /></p>
 <br><br>
  <h2><p align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
  Connect with me:</p>
 <p align="center"><a href="https://fb.com/minidu herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minidu herath" height="30" width="40" /></a>
-</p></h2>
+ <a href="www.linkedin.com/in/minidu-herath-9a0615298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minidu herath" height="30" width="40" /></a>
+
+</p>
+</h2>
 
