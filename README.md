@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minidu Herath</h1>
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate software developer from Sri Lanka</h3>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
